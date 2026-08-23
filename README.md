@@ -71,7 +71,7 @@ The lab demonstrated centralised firewall management using Intune and confirmed 
 
 ## Technical Documentation
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Endpoint-Security-Microsoft-Defender-Firewall/blob/main/Lab8.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Intune-Defender-Firewall-Management/blob/main/Lab8.pdf)
 
 ---
 
